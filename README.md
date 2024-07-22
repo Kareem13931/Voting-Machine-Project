@@ -1,2 +1,3 @@
 # Voting-Machine-Project
-Voting Machine Project by using ATmega32 
+Code for a Voting Machine Project
+Using AVR atmega32 mcu.
